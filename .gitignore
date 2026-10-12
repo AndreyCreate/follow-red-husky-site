@@ -1,0 +1,17 @@
+*.DS_Store
+
+# 07.10.2026 — открытый текст приватных страниц и служебное не публикуем (Pages раздаёт весь репо)
+*_src.html
+content-src.html
+encrypt.py
+*.py
+__pycache__/
+scripts/
+README.md
+REPORT.md
+SKILL.md
+content.md
+SOURCES.md
+gen/*/result.json
+gen/**/caption*.txt
+points.json
